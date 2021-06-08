@@ -1,6 +1,6 @@
 const response: Responses.JSONResponse<string> = {
   error: null,
-  data: 'heyy',
+  data: 'heyyy',
 };
 
 console.log(response);
